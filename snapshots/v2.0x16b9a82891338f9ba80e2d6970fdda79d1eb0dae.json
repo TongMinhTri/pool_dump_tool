@@ -1,0 +1,17 @@
+{
+    "pool": {
+        "address": "0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae",
+        "dex": "Pancake",
+        "protocol": "V2",
+        "store": {
+            "fee": 2500,
+            "protocol": "V2Pair",
+            "reserve0": "0x5abaee31345e7234f24",
+            "reserve1": "0xe961c65bdf3f2d30947eb",
+            "version": "v2"
+        },
+        "token0": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+    },
+    "state_block": 51606387
+}

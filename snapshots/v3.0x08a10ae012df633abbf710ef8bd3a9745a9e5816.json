@@ -1,0 +1,2227 @@
+{
+    "pool": {
+        "address": "0x08a10ae012df633abbf710ef8bd3a9745a9e5816",
+        "dex": "Pancake",
+        "protocol": "V3",
+        "store": {
+            "fee": "0x64",
+            "fee_growth_global_0x128": "0x0",
+            "fee_growth_global_1x128": "0x0",
+            "liquidity": "0x1303fae583227a50447c",
+            "protocol": "V3Pool",
+            "protocol_fees": {
+                "token0": "0x0",
+                "token1": "0x0"
+            },
+            "slot0": {
+                "fee_protocol": "0x0",
+                "sqrt_price_x96": "122976591741466356224204737839",
+                "tick": "8793"
+            },
+            "tick_bitmap": {
+                "-10": "0x100000",
+                "-16": "0x20000000000",
+                "-19": "0x80000000000000000000000000000000000000000",
+                "-20": "0x20000000000000000000000000000000000000000000000000000000000",
+                "-21": "0x200000000000000000000000000000",
+                "-22": "0x800000000",
+                "-25": "0x200000000",
+                "-26": "0x1000000000000000000000",
+                "-27": "0x40000020000010000000000000000000000001431200042",
+                "-28": "0x5fc90001003b7807b700200001fc9001000000431000000000c0003e20002",
+                "-29": "0x20000000000000000000000000000000000000000000000000000000000010",
+                "-30": "0x400000000000000000000000000000",
+                "-31": "0x20000000000000000000000000000000",
+                "-33": "0x400000000000000000000000000000",
+                "-3466": "0x1000000",
+                "-41": "0x400000",
+                "-82": "0x10000000000000000000000000000000000000000000000000",
+                "-9": "0x1000000000000000000",
+                "10": "0x80000000000000000000000000000000000000000000000000000000001000",
+                "11": "0x80080004000000800000000008008000000400004000000000000000020000",
+                "12": "0x100000100000000000c0000100000001000008",
+                "13": "0x1000410000000000000000000000000000000000100000000000001000000001",
+                "14": "0x800200000000000000000000000000000",
+                "17": "0x2000000000000000000000000000000000",
+                "18": "0x1000000000000000000100000000000000000000000",
+                "19": "0x10000000001000000000000000000000010000000000000000000000400000",
+                "20": "0x20080000000000040000000000000000000000000000100000000000000000",
+                "22": "0x40000000000000000000001000000000000000000002000000000000000000",
+                "23": "0x20000000000000000000008000000000000010000000000000000000020000",
+                "24": "0x80000000000000040000400000",
+                "25": "0x40000",
+                "26": "0x20200000000000000000000000000000000000000000000000200000000",
+                "27": "0x1000000000000000000000000000000000000000000000000000200080000",
+                "28": "0x5800000000000000200000000100000000000000020000000000000000000000",
+                "29": "0x18000200000000000000000000000020004000000000000000000000000",
+                "3": "0x4000000020001600016000000400000000000000000000000000000",
+                "30": "0x4000010200004182040000001000010000000000000000000040000000",
+                "31": "0x2202404021000280100000020320040100821000000010002002208050080000",
+                "32": "0x8100000000020000040000000000000000002000000000000000280000100000",
+                "33": "0x8800808000000000000080000800080000000004000000040001000",
+                "34": "0x10442400101000000088000000042000000020020000009008050020100002",
+                "3465": "0x10000000000000000000000000000000000000000000000000000000000",
+                "35": "0x804000020c00800004002000000000000800000010440000009040200008080",
+                "36": "0x2218002208000284001020410a010040200200206180030800020000020000",
+                "37": "0x80001000000020000000000000000000000882422002000003800100",
+                "39": "0x20000000000000000000000000000000000000000000000000000000000",
+                "4": "0x200000400000000000000000000000000000",
+                "40": "0x200000000000002000020000000000000000000000000000002000000000",
+                "41": "0x80011000000000100000000400001100000004",
+                "42": "0x40000000000000000000000000000000000010000000000001000000004",
+                "43": "0x80000000000000000000",
+                "47": "0x100",
+                "5": "0x2000000000000000000000000000000000000000000000000",
+                "50": "0x200",
+                "52": "0x80000000000",
+                "539": "0x400000000000000000000000000000000000000000000",
+                "54": "0x8000000000",
+                "57": "0x20000000000000000000000000000000000000",
+                "6": "0x8000000000000000000000000000000000000000000",
+                "66": "0x80000000000000000000",
+                "7": "0x40000001000001000100000000000000000040000000000000000080000000",
+                "73": "0x2000000000000000000000000000000000000000000000000000000",
+                "8": "0x408000010000000401000200080000800000400000000000",
+                "83": "0x40000000000000000000000000000000000000000000000000000000",
+                "9": "0x20048003000000001000000001004010100000008000002000200000020"
+            },
+            "tick_spacing": "0x1",
+            "ticks": {
+                "-10474": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf829e41c42e290369",
+                    "liquidity_net": "0xf829e41c42e290369"
+                },
+                "-20796": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x81f59a2d746a4acb",
+                    "liquidity_net": "0x81f59a2d746a4acb"
+                },
+                "-2232": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe659c6f5067f943805",
+                    "liquidity_net": "0xe659c6f5067f943805"
+                },
+                "-2540": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x87b3e2716dbfcefed",
+                    "liquidity_net": "0x87b3e2716dbfcefed"
+                },
+                "-4055": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x49d6239d42eddd2f26",
+                    "liquidity_net": "-0x49d6239d42eddd2f26"
+                },
+                "-4701": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf829e41c42e290369",
+                    "liquidity_net": "-0xf829e41c42e290369"
+                },
+                "-4887": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18060ebc637ee93a8a",
+                    "liquidity_net": "-0x18060ebc637ee93a8a"
+                },
+                "-5259": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2198de4d47196d68",
+                    "liquidity_net": "0x2198de4d47196d68"
+                },
+                "-5597": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x46a154e69719610f2a",
+                    "liquidity_net": "0x46a154e69719610f2a"
+                },
+                "-6367": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9f094856b709a696d",
+                    "liquidity_net": "0x9f094856b709a696d"
+                },
+                "-6572": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb338615cb57bfb76e",
+                    "liquidity_net": "-0xb338615cb57bfb76e"
+                },
+                "-6726": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4819a265e466ab93c90",
+                    "liquidity_net": "-0x4819a265e466ab93c90"
+                },
+                "-6751": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x91836ca9f843f7311",
+                    "liquidity_net": "-0x91836ca9f843f7311"
+                },
+                "-6776": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5ef825f6d6be85ca318",
+                    "liquidity_net": "-0x5ef825f6d6be85ca318"
+                },
+                "-6876": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5ef825f6d6be85ca318",
+                    "liquidity_net": "0x5ef825f6d6be85ca318"
+                },
+                "-6878": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1d1c01072e5af00eba9",
+                    "liquidity_net": "-0x1d1c01072e5af00eba9"
+                },
+                "-6883": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1e2a5e572c640d21f523",
+                    "liquidity_net": "-0x1e2a5e572c640d21f523"
+                },
+                "-6884": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11c870aa6b349b95f6b3",
+                    "liquidity_net": "-0x11c870aa6b349b95f6b3"
+                },
+                "-6888": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11d4187d7c892b4cb9ae",
+                    "liquidity_net": "-0x11d4187d7c892b4cb9ae"
+                },
+                "-6891": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x16e2d4e215acaa00c65",
+                    "liquidity_net": "-0x16e2d4e215acaa00c65"
+                },
+                "-6906": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ab9fda424ce5a7f8ce2",
+                    "liquidity_net": "-0x1ab9fda424ce5a7f8ce2"
+                },
+                "-6911": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x16e2d4e215acaa00c65",
+                    "liquidity_net": "0x16e2d4e215acaa00c65"
+                },
+                "-6926": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4819a265e466ab93c90",
+                    "liquidity_net": "0x4819a265e466ab93c90"
+                },
+                "-6928": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3925950a54b9495b6d",
+                    "liquidity_net": "-0x3925950a54b9495b6d"
+                },
+                "-6929": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x627d28eed71f035f6",
+                    "liquidity_net": "-0x627d28eed71f035f6"
+                },
+                "-6930": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2f4f28956c39fa529abe",
+                    "liquidity_net": "-0x2f4f28956c39fa529abe"
+                },
+                "-6931": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23f5216d42ac0f739ee6",
+                    "liquidity_net": "-0x23f5216d42ac0f739ee6"
+                },
+                "-6932": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb406815ebe554e7967b",
+                    "liquidity_net": "-0xb406815ebe554e7967b"
+                },
+                "-6933": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1845889b71efc24258ea",
+                    "liquidity_net": "-0x1845889b71efc24258ea"
+                },
+                "-6934": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3c0a2af164d6c329604",
+                    "liquidity_net": "-0x3c0a2af164d6c329604"
+                },
+                "-6937": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3a4086bf9ccd242c8a0",
+                    "liquidity_net": "-0x3a4086bf9ccd242c8a0"
+                },
+                "-6940": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5ae97afcee732d33e1e5",
+                    "liquidity_net": "-0x5ae97afcee732d33e1e5"
+                },
+                "-6956": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb96ddbbe01664f8cdc0",
+                    "liquidity_net": "-0xb96ddbbe01664f8cdc0"
+                },
+                "-6967": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x12ce45c7a625e00905",
+                    "liquidity_net": "-0x12ce45c7a625e00905"
+                },
+                "-6968": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa70fb9f545653617a52",
+                    "liquidity_net": "-0xa70fb9f545653617a52"
+                },
+                "-6969": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3d869283939c8bc",
+                    "liquidity_net": "-0x3d869283939c8bc"
+                },
+                "-6971": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23ab0261d75ffa1e4a1b",
+                    "liquidity_net": "-0x23ab0261d75ffa1e4a1b"
+                },
+                "-6972": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b948e0c85c5822894aa",
+                    "liquidity_net": "-0x1b948e0c85c5822894aa"
+                },
+                "-6974": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x8fa6d1fea6f11b2ba9",
+                    "liquidity_net": "-0x8fa6d1fea6f11b2ba9"
+                },
+                "-6975": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x26b99c8c0a1da4056c694",
+                    "liquidity_net": "-0x26b99c8c0a1da4056c694"
+                },
+                "-6976": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x25039e09721b4f3ca2405",
+                    "liquidity_net": "0x24effc2c879ce31ea2937"
+                },
+                "-6977": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x28ea541253d6d9beb0b1",
+                    "liquidity_net": "-0x28ea541253d6d9beb0b1"
+                },
+                "-6986": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x87e81c1ff522446e0c",
+                    "liquidity_net": "0x87e81c1ff522446e0c"
+                },
+                "-6987": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11bf5c2c1da0eabe6d17",
+                    "liquidity_net": "0x11bf5c2c1da0eabe6d17"
+                },
+                "-6988": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa70fb9f545653617a52",
+                    "liquidity_net": "0xa70fb9f545653617a52"
+                },
+                "-6989": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3d869283939c8bc",
+                    "liquidity_net": "0x3d869283939c8bc"
+                },
+                "-6991": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23ab0261d75ffa1e4a1b",
+                    "liquidity_net": "0x23ab0261d75ffa1e4a1b"
+                },
+                "-6992": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x33574d2bce805c0c69a6",
+                    "liquidity_net": "0x33574d2bce805c0c69a6"
+                },
+                "-6994": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe73da9fb372f66e35c0",
+                    "liquidity_net": "-0xe645d33f60f58c0ba86"
+                },
+                "-6995": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1bfcf710d418ad7c9ff6",
+                    "liquidity_net": "0x1bfcf710d418ad7c9ff6"
+                },
+                "-6996": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe6c1be9d4c127977823",
+                    "liquidity_net": "0xe6c1be9d4c127977823"
+                },
+                "-7007": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb96ddbbe01664f8cdc0",
+                    "liquidity_net": "0xb96ddbbe01664f8cdc0"
+                },
+                "-7028": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3925950a54b9495b6d",
+                    "liquidity_net": "0x3925950a54b9495b6d"
+                },
+                "-7029": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x627d28eed71f035f6",
+                    "liquidity_net": "0x627d28eed71f035f6"
+                },
+                "-7030": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1125e87567ddc0679fbc",
+                    "liquidity_net": "0x1125e87567ddc0679fbc"
+                },
+                "-7031": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x421e618d4708495e99e8",
+                    "liquidity_net": "0x421e618d4708495e99e8"
+                },
+                "-7032": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb406815ebe554e7967b",
+                    "liquidity_net": "0xb406815ebe554e7967b"
+                },
+                "-7033": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x182a0daec2044be74daa",
+                    "liquidity_net": "0x182a0daec2044be74daa"
+                },
+                "-7034": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3dc1d9bc638e28da144",
+                    "liquidity_net": "0x3dc1d9bc638e28da144"
+                },
+                "-7037": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3a4086bf9ccd242c8a0",
+                    "liquidity_net": "0x3a4086bf9ccd242c8a0"
+                },
+                "-7040": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5ae97afcee732d33e1e5",
+                    "liquidity_net": "0x5ae97afcee732d33e1e5"
+                },
+                "-7052": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ab9fda424ce5a7f8ce2",
+                    "liquidity_net": "0x1ab9fda424ce5a7f8ce2"
+                },
+                "-7078": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1d1c01072e5af00eba9",
+                    "liquidity_net": "0x1d1c01072e5af00eba9"
+                },
+                "-7083": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1e2a5e572c640d21f523",
+                    "liquidity_net": "0x1e2a5e572c640d21f523"
+                },
+                "-7084": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11c870aa6b349b95f6b3",
+                    "liquidity_net": "0x11c870aa6b349b95f6b3"
+                },
+                "-7088": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11d4187d7c892b4cb9ae",
+                    "liquidity_net": "0x11d4187d7c892b4cb9ae"
+                },
+                "-7125": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x7958da40fb28f90babe4e",
+                    "liquidity_net": "-0x7958da40fb28f90babe4e"
+                },
+                "-7126": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x7958da40fb28f90babe4e",
+                    "liquidity_net": "0x7958da40fb28f90babe4e"
+                },
+                "-7143": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xfa0d5d32f4aa298cda5f",
+                    "liquidity_net": "-0xfa0d5d32f4aa298cda5f"
+                },
+                "-7144": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x352863ed08647be43f0b",
+                    "liquidity_net": "-0x352863ed08647be43f0b"
+                },
+                "-7145": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2c953f6344c15639ef9b",
+                    "liquidity_net": "0x2c953f6344c15639ef9b"
+                },
+                "-7146": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x102a081bcb84d4f3729cf",
+                    "liquidity_net": "0x102a081bcb84d4f3729cf"
+                },
+                "-7147": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3651d48fded4b8b2f",
+                    "liquidity_net": "-0x3651d48fded4b8b2f"
+                },
+                "-7151": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3651d48fded4b8b2f",
+                    "liquidity_net": "0x3651d48fded4b8b2f"
+                },
+                "-7167": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x12ce45c7a625e00905",
+                    "liquidity_net": "0x12ce45c7a625e00905"
+                },
+                "-7179": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x22edb6990f737938b6",
+                    "liquidity_net": "0x22edb6990f737938b6"
+                },
+                "-7420": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x547ae416e760c6c05",
+                    "liquidity_net": "0x547ae416e760c6c05"
+                },
+                "-7562": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x91836ca9f843f7311",
+                    "liquidity_net": "0x91836ca9f843f7311"
+                },
+                "-7811": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb338615cb57bfb76e",
+                    "liquidity_net": "0xb338615cb57bfb76e"
+                },
+                "-8330": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3eee7bc096f94d30fa",
+                    "liquidity_net": "0x3eee7bc096f94d30fa"
+                },
+                "-887272": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x15511fe901175f8b9d",
+                    "liquidity_net": "0x15511fe901175f8b9d"
+                },
+                "10217": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9a6170c9d7527ee9c9",
+                    "liquidity_net": "-0x9a6170c9d7527ee9c9"
+                },
+                "10277": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2541d896bab45665e6",
+                    "liquidity_net": "0x2541d896bab45665e6"
+                },
+                "10401": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41c139af4d29dda7e32f",
+                    "liquidity_net": "0x41c139af4d29dda7e32f"
+                },
+                "10421": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41c139af4d29dda7e32f",
+                    "liquidity_net": "-0x41c139af4d29dda7e32f"
+                },
+                "10477": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2541d896bab45665e6",
+                    "liquidity_net": "-0x2541d896bab45665e6"
+                },
+                "10498": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3839ae1e80a56e76d3",
+                    "liquidity_net": "-0x3839ae1e80a56e76d3"
+                },
+                "10528": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x664b3eb1fae9934feb",
+                    "liquidity_net": "0x664b3eb1fae9934feb"
+                },
+                "10532": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1191de94c6292ad9f",
+                    "liquidity_net": "0x1191de94c6292ad9f"
+                },
+                "10554": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2cbe087cb5baafb915d",
+                    "liquidity_net": "0x2cbe087cb5baafb915d"
+                },
+                "10588": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4b258b831396ab3f19",
+                    "liquidity_net": "0x4b258b831396ab3f19"
+                },
+                "10628": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x664b3eb1fae9934feb",
+                    "liquidity_net": "-0x664b3eb1fae9934feb"
+                },
+                "10632": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1191de94c6292ad9f",
+                    "liquidity_net": "-0x1191de94c6292ad9f"
+                },
+                "10647": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb99973fb61e5ac27f",
+                    "liquidity_net": "-0xb99973fb61e5ac27f"
+                },
+                "10754": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2cbe087cb5baafb915d",
+                    "liquidity_net": "-0x2cbe087cb5baafb915d"
+                },
+                "10788": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4b258b831396ab3f19",
+                    "liquidity_net": "-0x4b258b831396ab3f19"
+                },
+                "10840": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9f6f79449846881606",
+                    "liquidity_net": "-0x9f6f79449846881606"
+                },
+                "10986": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x434ece39fa827d4b7",
+                    "liquidity_net": "-0x434ece39fa827d4b7"
+                },
+                "11087": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4620602ae6f316079a",
+                    "liquidity_net": "-0x4620602ae6f316079a"
+                },
+                "1142": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x392b8cc5fc58a4fd21",
+                    "liquidity_net": "0x392b8cc5fc58a4fd21"
+                },
+                "1165": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3839ae1e80a56e76d3",
+                    "liquidity_net": "0x3839ae1e80a56e76d3"
+                },
+                "12040": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11be20f20eadf035a7",
+                    "liquidity_net": "-0x11be20f20eadf035a7"
+                },
+                "12809": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23c1dbe893adf8aaaf",
+                    "liquidity_net": "-0x23c1dbe893adf8aaaf"
+                },
+                "13355": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xaa0f06cf61a8c6640",
+                    "liquidity_net": "-0xaa0f06cf61a8c6640"
+                },
+                "138162": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x15387b4389aaf7c2c4",
+                    "liquidity_net": "-0x15387b4389aaf7c2c4"
+                },
+                "13863": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x46a154e69719610f2a",
+                    "liquidity_net": "-0x46a154e69719610f2a"
+                },
+                "1473": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x797dd7f6189e9ddf12",
+                    "liquidity_net": "0x797dd7f6189e9ddf12"
+                },
+                "14741": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2198de4d47196d68",
+                    "liquidity_net": "-0x2198de4d47196d68"
+                },
+                "16975": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x141182237b8c09678b",
+                    "liquidity_net": "-0x141182237b8c09678b"
+                },
+                "1707": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x10c2113230c017e5d1",
+                    "liquidity_net": "0x10c2113230c017e5d1"
+                },
+                "1823": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x117b1dfc592481e29",
+                    "liquidity_net": "0x117b1dfc592481e29"
+                },
+                "18905": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x13459153eeb4afbb4d",
+                    "liquidity_net": "-0x13459153eeb4afbb4d"
+                },
+                "1894": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9070291981b2e7121",
+                    "liquidity_net": "0x9070291981b2e7121"
+                },
+                "1968": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x6a5c586bfa8c26e1b",
+                    "liquidity_net": "0x6a5c586bfa8c26e1b"
+                },
+                "1984": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x797dd7f6189e9ddf12",
+                    "liquidity_net": "-0x797dd7f6189e9ddf12"
+                },
+                "2008": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x620121931030b8606",
+                    "liquidity_net": "0x620121931030b8606"
+                },
+                "2038": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xbc55c591240aa8f5df",
+                    "liquidity_net": "0xbc55c591240aa8f5df"
+                },
+                "2094": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9070291981b2e7121",
+                    "liquidity_net": "-0x9070291981b2e7121"
+                },
+                "2119": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x637f2a9c6b3be619ba3",
+                    "liquidity_net": "0x637f2a9c6b3be619ba3"
+                },
+                "2139": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x637f2a9c6b3be619ba3",
+                    "liquidity_net": "-0x637f2a9c6b3be619ba3"
+                },
+                "21470": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa79c289831fafefe07",
+                    "liquidity_net": "-0xa79c289831fafefe07"
+                },
+                "2153": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb8ffd41de7225d031",
+                    "liquidity_net": "0xb8ffd41de7225d031"
+                },
+                "2168": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x6a5c586bfa8c26e1b",
+                    "liquidity_net": "-0x6a5c586bfa8c26e1b"
+                },
+                "2178": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1bed6cae7205ee1bf90",
+                    "liquidity_net": "0x1bed6cae7205ee1bf90"
+                },
+                "2208": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x620121931030b8606",
+                    "liquidity_net": "-0x620121931030b8606"
+                },
+                "2231": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x91ec51201d37e7de",
+                    "liquidity_net": "0x91ec51201d37e7de"
+                },
+                "2238": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xbc55c591240aa8f5df",
+                    "liquidity_net": "-0xbc55c591240aa8f5df"
+                },
+                "2309": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4a6383574f13ed3b36",
+                    "liquidity_net": "0x4a6383574f13ed3b36"
+                },
+                "2337": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x129936f5896fe677924",
+                    "liquidity_net": "0x129936f5896fe677924"
+                },
+                "2353": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb8ffd41de7225d031",
+                    "liquidity_net": "-0xb8ffd41de7225d031"
+                },
+                "2379": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1bed6cae7205ee1bf90",
+                    "liquidity_net": "-0x1bed6cae7205ee1bf90"
+                },
+                "2408": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5272d4622365410b699",
+                    "liquidity_net": "0x5272d4622365410b699"
+                },
+                "2416": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf1e4d4d854896a06c6a",
+                    "liquidity_net": "0xf1e4d4d854896a06c6a"
+                },
+                "2426": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x348f2af63594017b1",
+                    "liquidity_net": "0x348f2af63594017b1"
+                },
+                "2436": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf1e4d4d854896a06c6a",
+                    "liquidity_net": "-0xf1e4d4d854896a06c6a"
+                },
+                "2472": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x733495a5584fd2cedb",
+                    "liquidity_net": "0x733495a5584fd2cedb"
+                },
+                "2508": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5272d4622365410b699",
+                    "liquidity_net": "-0x5272d4622365410b699"
+                },
+                "2509": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4a6383574f13ed3b36",
+                    "liquidity_net": "-0x4a6383574f13ed3b36"
+                },
+                "2523": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9f094856b709a696d",
+                    "liquidity_net": "-0x9f094856b709a696d"
+                },
+                "2526": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x348f2af63594017b1",
+                    "liquidity_net": "-0x348f2af63594017b1"
+                },
+                "2537": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x129936f5896fe677924",
+                    "liquidity_net": "-0x129936f5896fe677924"
+                },
+                "2572": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x733495a5584fd2cedb",
+                    "liquidity_net": "-0x733495a5584fd2cedb"
+                },
+                "2807": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x19d637f4963957a906",
+                    "liquidity_net": "0x19d637f4963957a906"
+                },
+                "2833": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9040b1009f00c53646",
+                    "liquidity_net": "0x9040b1009f00c53646"
+                },
+                "2902": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2cc8c3f25dfd8055e319",
+                    "liquidity_net": "0x2cc8c3f25dfd8055e319"
+                },
+                "2922": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2cc8c3f25dfd8055e319",
+                    "liquidity_net": "-0x2cc8c3f25dfd8055e319"
+                },
+                "2951": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x294e565fc5c9bd7c313",
+                    "liquidity_net": "0x294e565fc5c9bd7c313"
+                },
+                "2963": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18faaa7e67e6199d7faf",
+                    "liquidity_net": "0x18faaa7e67e6199d7faf"
+                },
+                "3007": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x19d637f4963957a906",
+                    "liquidity_net": "-0x19d637f4963957a906"
+                },
+                "3034": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9040b1009f00c53646",
+                    "liquidity_net": "-0x9040b1009f00c53646"
+                },
+                "3051": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x294e565fc5c9bd7c313",
+                    "liquidity_net": "-0x294e565fc5c9bd7c313"
+                },
+                "3063": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18faaa7e67e6199d7faf",
+                    "liquidity_net": "-0x18faaa7e67e6199d7faf"
+                },
+                "3075": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb99973fb61e5ac27f",
+                    "liquidity_net": "0xb99973fb61e5ac27f"
+                },
+                "3096": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x184b8649f1aec5f4f16e",
+                    "liquidity_net": "0x184b8649f1aec5f4f16e"
+                },
+                "3128": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x429f110ffdddf09520f",
+                    "liquidity_net": "0x429f110ffdddf09520f"
+                },
+                "3150": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b9c2cab896de9358beb",
+                    "liquidity_net": "0x1b9c2cab896de9358beb"
+                },
+                "3151": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b9c2cab896de9358beb",
+                    "liquidity_net": "-0x1b9c2cab896de9358beb"
+                },
+                "3196": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x184b8649f1aec5f4f16e",
+                    "liquidity_net": "-0x184b8649f1aec5f4f16e"
+                },
+                "3220": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41033a8aa9ab9b5bcf",
+                    "liquidity_net": "0x41033a8aa9ab9b5bcf"
+                },
+                "3328": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x429f110ffdddf09520f",
+                    "liquidity_net": "-0x429f110ffdddf09520f"
+                },
+                "3364": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe659c6f5067f943805",
+                    "liquidity_net": "-0xe659c6f5067f943805"
+                },
+                "3420": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41033a8aa9ab9b5bcf",
+                    "liquidity_net": "-0x41033a8aa9ab9b5bcf"
+                },
+                "3560": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ab0a7723da3ccfdc1",
+                    "liquidity_net": "0x1ab0a7723da3ccfdc1"
+                },
+                "3566": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4a034abf9e63552959",
+                    "liquidity_net": "0x4a034abf9e63552959"
+                },
+                "3580": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ab0a7723da3ccfdc1",
+                    "liquidity_net": "-0x1ab0a7723da3ccfdc1"
+                },
+                "3701": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x6b1b7ea0b0659a4e3",
+                    "liquidity_net": "0x6b1b7ea0b0659a4e3"
+                },
+                "3715": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x141182237b8c09678b",
+                    "liquidity_net": "0x141182237b8c09678b"
+                },
+                "4485": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xdd790a4e9b3adb283",
+                    "liquidity_net": "0xdd790a4e9b3adb283"
+                },
+                "4700": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xbabc5a0de92821319",
+                    "liquidity_net": "-0x1b7aa33377a3136ad"
+                },
+                "4776": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1143d9048861a44718",
+                    "liquidity_net": "0x1143d9048861a44718"
+                },
+                "4886": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xfdfd2889ecef1e541",
+                    "liquidity_net": "0xfdfd2889ecef1e541"
+                },
+                "4976": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1143d9048861a44718",
+                    "liquidity_net": "-0x1143d9048861a44718"
+                },
+                "5068": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x434ece39fa827d4b7",
+                    "liquidity_net": "0x434ece39fa827d4b7"
+                },
+                "5108": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x36907481b26b7e1f6c",
+                    "liquidity_net": "0x1ae15337df0422ba66"
+                },
+                "5188": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x392b8cc5fc58a4fd21",
+                    "liquidity_net": "-0x392b8cc5fc58a4fd21"
+                },
+                "5306": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4fa0db6d38c286e36",
+                    "liquidity_net": "-0x4fa0db6d38c286e36"
+                },
+                "5355": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xaa0f06cf61a8c6640",
+                    "liquidity_net": "0xaa0f06cf61a8c6640"
+                },
+                "5365": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xfdfd2889ecef1e541",
+                    "liquidity_net": "-0xfdfd2889ecef1e541"
+                },
+                "5705": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x378bc208c0749efe69",
+                    "liquidity_net": "0x378bc208c0749efe69"
+                },
+                "5788": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x14517334801191bee6f",
+                    "liquidity_net": "0x14517334801191bee6f"
+                },
+                "5878": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xebe6baf54cc91ebd2",
+                    "liquidity_net": "0xebe6baf54cc91ebd2"
+                },
+                "5905": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x378bc208c0749efe69",
+                    "liquidity_net": "-0x378bc208c0749efe69"
+                },
+                "5988": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x14517334801191bee6f",
+                    "liquidity_net": "-0x14517334801191bee6f"
+                },
+                "6047": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x52129aa3cc4704981c",
+                    "liquidity_net": "0x52129aa3cc4704981c"
+                },
+                "6133": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x77e9f0032541767d7",
+                    "liquidity_net": "0x77e9f0032541767d7"
+                },
+                "6166": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x93a691d0a925e641a9",
+                    "liquidity_net": "0x93a691d0a925e641a9"
+                },
+                "6186": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x93a691d0a925e641a9",
+                    "liquidity_net": "-0x93a691d0a925e641a9"
+                },
+                "6247": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x52129aa3cc4704981c",
+                    "liquidity_net": "-0x52129aa3cc4704981c"
+                },
+                "6418": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9f6f79449846881606",
+                    "liquidity_net": "0x9f6f79449846881606"
+                },
+                "6689": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xda4293a15edc1ff19e",
+                    "liquidity_net": "0xda4293a15edc1ff19e"
+                },
+                "6881": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x117b1dfc592481e29",
+                    "liquidity_net": "-0x117b1dfc592481e29"
+                },
+                "6889": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xda4293a15edc1ff19e",
+                    "liquidity_net": "-0xda4293a15edc1ff19e"
+                },
+                "6931": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5d14dd6d57249a67e9",
+                    "liquidity_net": "0x3ac69932ef20c85933"
+                },
+                "6945": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5b1ca8a2c434693357",
+                    "liquidity_net": "0x5b1ca8a2c434693357"
+                },
+                "7152": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5b1ca8a2c434693357",
+                    "liquidity_net": "-0x5b1ca8a2c434693357"
+                },
+                "7257": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xce131c18ec83e51e3a",
+                    "liquidity_net": "0xce131c18ec83e51e3a"
+                },
+                "7320": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9266c9eaa251846ce1",
+                    "liquidity_net": "0x9266c9eaa251846ce1"
+                },
+                "7357": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xce131c18ec83e51e3a",
+                    "liquidity_net": "-0xce131c18ec83e51e3a"
+                },
+                "7419": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xabb17ed52ae439735",
+                    "liquidity_net": "0xabb17ed52ae439735"
+                },
+                "7420": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9266c9eaa251846ce1",
+                    "liquidity_net": "-0x9266c9eaa251846ce1"
+                },
+                "7422": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa4dde2cf243659cc1e",
+                    "liquidity_net": "0xa4dde2cf243659cc1e"
+                },
+                "7522": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa4dde2cf243659cc1e",
+                    "liquidity_net": "-0xa4dde2cf243659cc1e"
+                },
+                "7537": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x17609498dd543b31c7c",
+                    "liquidity_net": "0x17609498dd543b31c7c"
+                },
+                "7637": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x17609498dd543b31c7c",
+                    "liquidity_net": "-0x17609498dd543b31c7c"
+                },
+                "7655": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29df5f6e4d552dbf6b4",
+                    "liquidity_net": "0x29df5f6e4d552dbf6b4"
+                },
+                "7656": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ecf4af1247dd7d6016",
+                    "liquidity_net": "0x1ecf4af1247dd7d6016"
+                },
+                "7710": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x391cdc392b6c84b0dc5",
+                    "liquidity_net": "0x391cdc392b6c84b0dc5"
+                },
+                "7792": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34aa58096f25ecbcfe8",
+                    "liquidity_net": "0x34aa58096f25ecbcfe8"
+                },
+                "7812": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34aa58096f25ecbcfe8",
+                    "liquidity_net": "-0x34aa58096f25ecbcfe8"
+                },
+                "7842": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3562c5a414d9f3b7879",
+                    "liquidity_net": "0x3562c5a414d9f3b7879"
+                },
+                "7849": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x79c319df806aa66f97",
+                    "liquidity_net": "0x79c319df806aa66f97"
+                },
+                "7855": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1c5554ddb98573c862f",
+                    "liquidity_net": "0x1c5554ddb98573c862f"
+                },
+                "7856": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1ecf4af1247dd7d6016",
+                    "liquidity_net": "-0x1ecf4af1247dd7d6016"
+                },
+                "7862": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3562c5a414d9f3b7879",
+                    "liquidity_net": "-0x3562c5a414d9f3b7879"
+                },
+                "7881": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2722518c5a15b90c0fb",
+                    "liquidity_net": "0x2722518c5a15b90c0fb"
+                },
+                "7888": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x33202f14ae2105e0cfd",
+                    "liquidity_net": "0x33202f14ae2105e0cfd"
+                },
+                "7910": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x391cdc392b6c84b0dc5",
+                    "liquidity_net": "-0x391cdc392b6c84b0dc5"
+                },
+                "7955": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x8416b29fe6ab713f820",
+                    "liquidity_net": "0x4b6c08e473a089aebc2"
+                },
+                "7964": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xab3931528edab2ee71",
+                    "liquidity_net": "0xab3931528edab2ee71"
+                },
+                "7966": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34f400ce1b751ba5210",
+                    "liquidity_net": "0x34f400ce1b751ba5210"
+                },
+                "7975": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xab3931528edab2ee71",
+                    "liquidity_net": "-0xab3931528edab2ee71"
+                },
+                "7981": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2722518c5a15b90c0fb",
+                    "liquidity_net": "-0x2722518c5a15b90c0fb"
+                },
+                "7985": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x9a6170c9d7527ee9c9",
+                    "liquidity_net": "0x9a6170c9d7527ee9c9"
+                },
+                "7997": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xfe284650bf1e8aa83",
+                    "liquidity_net": "0xfe284650bf1e8aa83"
+                },
+                "8012": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2355b991c3affb2149f",
+                    "liquidity_net": "0x2355b991c3affb2149f"
+                },
+                "8044": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa22fa3cff1ed28eca9",
+                    "liquidity_net": "0xa22fa3cff1ed28eca9"
+                },
+                "8049": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x79c319df806aa66f97",
+                    "liquidity_net": "-0x79c319df806aa66f97"
+                },
+                "8055": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x67c15dc22d25fd771f1",
+                    "liquidity_net": "-0x67c15dc22d25fd771f1"
+                },
+                "8064": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa22fa3cff1ed28eca9",
+                    "liquidity_net": "-0xa22fa3cff1ed28eca9"
+                },
+                "8074": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x6f64d29c1cb2b24648",
+                    "liquidity_net": "0x6f64d29c1cb2b24648"
+                },
+                "8085": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18e40baf4fcd6f2b21f",
+                    "liquidity_net": "0x18e40baf4fcd6f2b21f"
+                },
+                "8088": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x33202f14ae2105e0cfd",
+                    "liquidity_net": "-0x33202f14ae2105e0cfd"
+                },
+                "8089": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb1591b4c9e532b2378f",
+                    "liquidity_net": "0xb1591b4c9e532b2378f"
+                },
+                "8097": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xfe284650bf1e8aa83",
+                    "liquidity_net": "-0xfe284650bf1e8aa83"
+                },
+                "8124": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x25a7e120e3b7d9ba5c",
+                    "liquidity_net": "0x25a7e120e3b7d9ba5c"
+                },
+                "8135": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29d9ed3bbebcb5d6662",
+                    "liquidity_net": "0x29d9ed3bbebcb5d6662"
+                },
+                "8137": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5d9cf3b075bf62067cf",
+                    "liquidity_net": "0x5d9cf3b075bf62067cf"
+                },
+                "8152": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xa79c289831fafefe07",
+                    "liquidity_net": "0xa79c289831fafefe07"
+                },
+                "8157": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe2cd2239d017b94ec3",
+                    "liquidity_net": "0xe2cd2239d017b94ec3"
+                },
+                "8166": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34f400ce1b751ba5210",
+                    "liquidity_net": "-0x34f400ce1b751ba5210"
+                },
+                "8174": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x6f64d29c1cb2b24648",
+                    "liquidity_net": "-0x6f64d29c1cb2b24648"
+                },
+                "8177": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe2cd2239d017b94ec3",
+                    "liquidity_net": "-0xe2cd2239d017b94ec3"
+                },
+                "8185": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18e40baf4fcd6f2b21f",
+                    "liquidity_net": "-0x18e40baf4fcd6f2b21f"
+                },
+                "8189": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb1591b4c9e532b2378f",
+                    "liquidity_net": "-0xb1591b4c9e532b2378f"
+                },
+                "8212": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2355b991c3affb2149f",
+                    "liquidity_net": "-0x2355b991c3affb2149f"
+                },
+                "8235": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29d9ed3bbebcb5d6662",
+                    "liquidity_net": "-0x29d9ed3bbebcb5d6662"
+                },
+                "8237": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5d9cf3b075bf62067cf",
+                    "liquidity_net": "-0x5d9cf3b075bf62067cf"
+                },
+                "8301": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf4c72a93aabcbd7a",
+                    "liquidity_net": "0xf4c72a93aabcbd7a"
+                },
+                "8378": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xc0e677dfb0fd734a98",
+                    "liquidity_net": "0xc0e677dfb0fd734a98"
+                },
+                "8401": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf4c72a93aabcbd7a",
+                    "liquidity_net": "-0xf4c72a93aabcbd7a"
+                },
+                "8440": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1fc7049293e40d88bab8",
+                    "liquidity_net": "0x1fc7049293e40d88bab8"
+                },
+                "8447": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x87b3e2716dbfcefed",
+                    "liquidity_net": "-0x87b3e2716dbfcefed"
+                },
+                "8460": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1fc7049293e40d88bab8",
+                    "liquidity_net": "-0x1fc7049293e40d88bab8"
+                },
+                "8478": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xc0e677dfb0fd734a98",
+                    "liquidity_net": "-0xc0e677dfb0fd734a98"
+                },
+                "8510": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2da5435b4058c7381590",
+                    "liquidity_net": "0x2da5435b4058c7381590"
+                },
+                "8551": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2da5435b4058c7381590",
+                    "liquidity_net": "-0x2da5435b4058c7381590"
+                },
+                "8567": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x126dec973363e40afc81",
+                    "liquidity_net": "0x126dec973363e40afc81"
+                },
+                "8587": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xabb17ed52ae439735",
+                    "liquidity_net": "-0xabb17ed52ae439735"
+                },
+                "8643": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x122c685e906be0d3d239",
+                    "liquidity_net": "0x122c685e906be0d3d239"
+                },
+                "8651": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x13459153eeb4afbb4d",
+                    "liquidity_net": "0x13459153eeb4afbb4d"
+                },
+                "8663": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x122c685e906be0d3d239",
+                    "liquidity_net": "-0x122c685e906be0d3d239"
+                },
+                "8667": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x126dec973363e40afc81",
+                    "liquidity_net": "-0x126dec973363e40afc81"
+                },
+                "8705": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x923f954ef987552046d",
+                    "liquidity_net": "0x923f954ef987552046d"
+                },
+                "8724": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x53e9d58e554617e510",
+                    "liquidity_net": "0x53e9d58e554617e510"
+                },
+                "8733": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3f7c408d99f1f7d4d78",
+                    "liquidity_net": "0x3f7c408d99f1f7d4d78"
+                },
+                "8744": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x8b216449f5947d2354",
+                    "liquidity_net": "-0x1cb246d2b4f7b2a6cc"
+                },
+                "8746": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x25a7e120e3b7d9ba5c",
+                    "liquidity_net": "-0x25a7e120e3b7d9ba5c"
+                },
+                "8755": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29df5f6e4d552dbf6b4",
+                    "liquidity_net": "-0x29df5f6e4d552dbf6b4"
+                },
+                "8764": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x37378ebba04e653e44",
+                    "liquidity_net": "-0x37378ebba04e653e44"
+                },
+                "8767": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23ad23a23894da8287a",
+                    "liquidity_net": "0x23ad23a23894da8287a"
+                },
+                "8793": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1e6d70ab96558400a1",
+                    "liquidity_net": "0x1e6d70ab96558400a1"
+                },
+                "8805": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x923f954ef987552046d",
+                    "liquidity_net": "-0x923f954ef987552046d"
+                },
+                "8837": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xde1dea754e49a9f4564",
+                    "liquidity_net": "0xde1dea754e49a9f4564"
+                },
+                "8842": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4ea3af7bfb2926c7eea",
+                    "liquidity_net": "0x4ea3af7bfb2926c7eea"
+                },
+                "886": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29819ac66597a8acb6",
+                    "liquidity_net": "0x29819ac66597a8acb6"
+                },
+                "887272": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x18a4a5776c67c8d9",
+                    "liquidity_net": "-0x18a4a5776c67c8d9"
+                },
+                "8875": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1a2dea9d6a81432bdcb",
+                    "liquidity_net": "0x1a2dea9d6a81432bdcb"
+                },
+                "8879": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4cd652ef9c6e31a05b",
+                    "liquidity_net": "0x4cd652ef9c6e31a05b"
+                },
+                "8908": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xcdc05c85fe89d9c65",
+                    "liquidity_net": "0xcdc05c85fe89d9c65"
+                },
+                "8916": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x10c2113230c017e5d1",
+                    "liquidity_net": "-0x10c2113230c017e5d1"
+                },
+                "8930": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x133e927f6eb305cfacc",
+                    "liquidity_net": "0x133e927f6eb305cfacc"
+                },
+                "8933": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3f7c408d99f1f7d4d78",
+                    "liquidity_net": "-0x3f7c408d99f1f7d4d78"
+                },
+                "8938": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xde1dea754e49a9f4564",
+                    "liquidity_net": "-0xde1dea754e49a9f4564"
+                },
+                "8942": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4ea3af7bfb2926c7eea",
+                    "liquidity_net": "-0x4ea3af7bfb2926c7eea"
+                },
+                "8948": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x17f1b83406a9d42677ff",
+                    "liquidity_net": "0x17f1b83406a9d42677ff"
+                },
+                "8967": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x23ad23a23894da8287a",
+                    "liquidity_net": "-0x23ad23a23894da8287a"
+                },
+                "8975": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1a2dea9d6a81432bdcb",
+                    "liquidity_net": "-0x1a2dea9d6a81432bdcb"
+                },
+                "8993": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1e6d70ab96558400a1",
+                    "liquidity_net": "-0x1e6d70ab96558400a1"
+                },
+                "9002": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x3da17af0dfa4953fb3",
+                    "liquidity_net": "0x3da17af0dfa4953fb3"
+                },
+                "9008": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xcdc05c85fe89d9c65",
+                    "liquidity_net": "-0xcdc05c85fe89d9c65"
+                },
+                "9011": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x550c050b73ce27982b",
+                    "liquidity_net": "0x550c050b73ce27982b"
+                },
+                "9038": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x77e9f0032541767d7",
+                    "liquidity_net": "-0x77e9f0032541767d7"
+                },
+                "9042": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5834fbda73f78a49ae",
+                    "liquidity_net": "0x5834fbda73f78a49ae"
+                },
+                "9048": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x17f1b83406a9d42677ff",
+                    "liquidity_net": "-0x17f1b83406a9d42677ff"
+                },
+                "9079": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4cd652ef9c6e31a05b",
+                    "liquidity_net": "-0x4cd652ef9c6e31a05b"
+                },
+                "9129": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x133e927f6eb305cfacc",
+                    "liquidity_net": "-0x133e927f6eb305cfacc"
+                },
+                "913": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x14b01989777c36011ff",
+                    "liquidity_net": "0x14b01989777c36011ff"
+                },
+                "914": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11be160a6b765641703",
+                    "liquidity_net": "0x11be160a6b765641703"
+                },
+                "9142": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x5834fbda73f78a49ae",
+                    "liquidity_net": "-0x5834fbda73f78a49ae"
+                },
+                "916": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe6fd0ec910e665908f",
+                    "liquidity_net": "0xe6fd0ec910e665908f"
+                },
+                "9163": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41abb2a5dd36c164879",
+                    "liquidity_net": "0x4199751bb9331a678bd"
+                },
+                "9174": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x580d3817c5f1ad7b7c6",
+                    "liquidity_net": "0x580d3817c5f1ad7b7c6"
+                },
+                "9175": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x44c93510d28844fb55",
+                    "liquidity_net": "0x44c93510d28844fb55"
+                },
+                "9181": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xafcb7a0127366b535",
+                    "liquidity_net": "0xafcb7a0127366b535"
+                },
+                "9202": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x598fcb7c0fd74836eb",
+                    "liquidity_net": "-0x21b32a65af71e2487b"
+                },
+                "9211": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x550c050b73ce27982b",
+                    "liquidity_net": "-0x550c050b73ce27982b"
+                },
+                "9233": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x542241c1d32fa3e34b3",
+                    "liquidity_net": "0x542241c1d32fa3e34b3"
+                },
+                "9257": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4fe4601cefee8e756b",
+                    "liquidity_net": "0x4fe4601cefee8e756b"
+                },
+                "9275": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x44c93510d28844fb55",
+                    "liquidity_net": "-0x44c93510d28844fb55"
+                },
+                "9280": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1067d020322869af8b0",
+                    "liquidity_net": "0x1067d020322869af8b0"
+                },
+                "9281": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1842fb4db157446bc5b",
+                    "liquidity_net": "0x1842fb4db157446bc5b"
+                },
+                "9295": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf368b107c0e401f52",
+                    "liquidity_net": "0xf368b107c0e401f52"
+                },
+                "9296": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b975f5120996ec2a2cd",
+                    "liquidity_net": "0x1b975f5120996ec2a2cd"
+                },
+                "9301": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1842fb4db157446bc5b",
+                    "liquidity_net": "-0x1842fb4db157446bc5b"
+                },
+                "9302": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x7caa991e5f1413129e9",
+                    "liquidity_net": "0x7caa991e5f1413129e9"
+                },
+                "9309": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x196a9b9ac0bf9b2690b",
+                    "liquidity_net": "0x196a9b9ac0bf9b2690b"
+                },
+                "9321": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x16a2110e72c2b598c8",
+                    "liquidity_net": "0x16a2110e72c2b598c8"
+                },
+                "933": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x14b01989777c36011ff",
+                    "liquidity_net": "-0x14b01989777c36011ff"
+                },
+                "9333": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x830787c45a37ed1b2b",
+                    "liquidity_net": "0x830787c45a37ed1b2b"
+                },
+                "934": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x11be160a6b765641703",
+                    "liquidity_net": "-0x11be160a6b765641703"
+                },
+                "9342": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34defb37e2c475f668",
+                    "liquidity_net": "0x34defb37e2c475f668"
+                },
+                "9352": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb79739d9189339026d",
+                    "liquidity_net": "0xb79739d9189339026d"
+                },
+                "936": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe6fd0ec910e665908f",
+                    "liquidity_net": "-0xe6fd0ec910e665908f"
+                },
+                "9361": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x12caf83bafac374f381",
+                    "liquidity_net": "0x12caf83bafac374f381"
+                },
+                "9363": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x41a293e0cb34ede609b",
+                    "liquidity_net": "-0x41a293e0cb34ede609b"
+                },
+                "9368": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b16ed33411b1386003",
+                    "liquidity_net": "0x1b16ed33411b1386003"
+                },
+                "9374": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x580d3817c5f1ad7b7c6",
+                    "liquidity_net": "-0x580d3817c5f1ad7b7c6"
+                },
+                "9381": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xafcb7a0127366b535",
+                    "liquidity_net": "-0xafcb7a0127366b535"
+                },
+                "9388": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1b16ed33411b1386003",
+                    "liquidity_net": "-0x1b16ed33411b1386003"
+                },
+                "9402": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x7e697e2712173e42121",
+                    "liquidity_net": "-0x7e697e2712173e42121"
+                },
+                "9407": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe8da069ce194ea9106",
+                    "liquidity_net": "0xe8da069ce194ea9106"
+                },
+                "9409": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x196a9b9ac0bf9b2690b",
+                    "liquidity_net": "-0x196a9b9ac0bf9b2690b"
+                },
+                "9427": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xe8da069ce194ea9106",
+                    "liquidity_net": "-0xe8da069ce194ea9106"
+                },
+                "9433": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2703355a586bfecf8b4",
+                    "liquidity_net": "-0x2703355a586bfecf8b4"
+                },
+                "9437": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2b4fba483384cff81d",
+                    "liquidity_net": "0x2b4fba483384cff81d"
+                },
+                "9451": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xae6b4bf863d7dba",
+                    "liquidity_net": "0xae6b4bf863d7dba"
+                },
+                "9452": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xb79739d9189339026d",
+                    "liquidity_net": "-0xb79739d9189339026d"
+                },
+                "9457": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x4fe4601cefee8e756b",
+                    "liquidity_net": "-0x4fe4601cefee8e756b"
+                },
+                "9461": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x12caf83bafac374f381",
+                    "liquidity_net": "-0x12caf83bafac374f381"
+                },
+                "9480": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1067d020322869af8b0",
+                    "liquidity_net": "-0x1067d020322869af8b0"
+                },
+                "9495": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xf368b107c0e401f52",
+                    "liquidity_net": "-0xf368b107c0e401f52"
+                },
+                "9496": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x190968cfd54d3f00a20d",
+                    "liquidity_net": "-0x190968cfd54d3f00a20d"
+                },
+                "9497": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2d1f0c677ac3a513bff",
+                    "liquidity_net": "-0x2d1f0c677ac3a513bff"
+                },
+                "9521": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x16a2110e72c2b598c8",
+                    "liquidity_net": "-0x16a2110e72c2b598c8"
+                },
+                "953": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1e6c0d3b1c0ecd0be",
+                    "liquidity_net": "0x1e6c0d3b1c0ecd0be"
+                },
+                "9533": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x830787c45a37ed1b2b",
+                    "liquidity_net": "-0x830787c45a37ed1b2b"
+                },
+                "9537": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x2b4fba483384cff81d",
+                    "liquidity_net": "-0x2b4fba483384cff81d"
+                },
+                "9542": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x34defb37e2c475f668",
+                    "liquidity_net": "-0x34defb37e2c475f668"
+                },
+                "9545": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xaf2cfb91801a75a796",
+                    "liquidity_net": "0xaf2cfb91801a75a796"
+                },
+                "9551": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xae6b4bf863d7dba",
+                    "liquidity_net": "-0xae6b4bf863d7dba"
+                },
+                "9555": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x282bdf678f74b8b5df",
+                    "liquidity_net": "-0x282bdf678f74b8b5df"
+                },
+                "9645": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0xaf2cfb91801a75a796",
+                    "liquidity_net": "-0xaf2cfb91801a75a796"
+                },
+                "9676": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x1addad7f717a1f5901",
+                    "liquidity_net": "-0x1addad7f717a1f5901"
+                },
+                "9695": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x28df6814b4c2fc200c0",
+                    "liquidity_net": "-0x28df6814b4c2fc200c0"
+                },
+                "986": {
+                    "fee_growth_outside_0x128": "0x0",
+                    "fee_growth_outside_1x128": "0x0",
+                    "liquidity_gross": "0x29819ac66597a8acb6",
+                    "liquidity_net": "-0x29819ac66597a8acb6"
+                }
+            },
+            "version": "v3"
+        },
+        "token0": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81"
+    },
+    "state_block": 51606387
+}

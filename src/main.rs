@@ -180,7 +180,7 @@ fn process_pool_addresses(
 fn main() {
     let url = "http://192.168.1.58:8575";
     let v2_file_path = "./panv2_pool_addresses.txt";
-    let v3_file_path = "./univ3_pool_addresses.txt";
+    let v3_file_path = "./panv3_pool_addresses.txt";
 
     let v2_pool_addresses = read_pool_addresses(v2_file_path);
     let v3_pool_addresses = read_pool_addresses(v3_file_path);
