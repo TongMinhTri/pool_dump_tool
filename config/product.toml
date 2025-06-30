@@ -1,0 +1,23 @@
+# Default configuration for the market-hub
+
+[app]
+app_env = "product"
+pool_txt = ""
+folder_snapshot = "./snapshots"
+folder_dump = "./dumps"
+block_step = 1000
+num_threads = 1
+log_fetch_concurrency = 10
+
+
+
+to_block = 52123634
+
+
+
+[rpc]
+http = "http://92.53.84.169:8545/"
+batch_size = 10
+
+[bsc_scan]
+api_key = "UN3WQDN6NCPDQG2H42TP5KSHVPINCW3SGQ"

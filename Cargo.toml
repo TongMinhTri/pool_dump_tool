@@ -1,0 +1,11 @@
+[package]
+name = "pool_dump_new"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ethers = "2.0.14"
+reqwest = { version = "0.12.20", features = ["blocking", "json"] }
+serde_json = "1.0"
+alloy-primitives = "1.2.1"
+alloy-sol-types = { version = "1.2.1" }
