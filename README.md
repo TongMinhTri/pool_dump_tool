@@ -1,7 +1,7 @@
 # pool_dump_tool
 
 ## Overview
-This project is designed to dump pool data to the latest block of a blockchain node.
+This project is designed to dump pool data to the desired block of a blockchain node.
 
 ## Usage
 
@@ -15,8 +15,8 @@ This project is designed to dump pool data to the latest block of a blockchain n
 2. **Update Configuration**
    - After dumping the pools, update the `to_block` value in the `product.toml` configuration file to the desired block number.
 
-3. **Sync pools to the desired block**
-   - Execute the `market-dump` binary to sync the pools in ./snapshots to the desired block.
+3. **Sync Pools to the Desired Block**
+   - Execute the `market-dump` binary to sync the pools in `./snapshots` to the desired block.
 
      ```bash
      APP_ENV=product ./market-dump
@@ -30,7 +30,7 @@ The configuration file `product.toml` contains the following key settings:
 - `folder_snapshot`: Directory for snapshots.
 - `folder_dump`: Directory for dumps.
 - `block_step`: Number of blocks to process in each step.
-- `to_block`: The latest block number to process.
+- `to_block`: The desired block number to sync.
 - `rpc.http`: The RPC endpoint of the blockchain node.
 - `bsc_scan.api_key`: API key for BSC scan.
 
